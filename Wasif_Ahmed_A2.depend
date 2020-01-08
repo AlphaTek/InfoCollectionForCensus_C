@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1531243048 source:e:\++sheridan college\semester 4\data structures c\assignments\assignment2\wasif_ahmed_a2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"householdInfo.h"
+	<string.h>
+
+1529221986 e:\++sheridan college\semester 4\data structures c\assignments\assignment2\wasif_ahmed_a2\householdinfo.h
+
